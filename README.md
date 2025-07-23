@@ -25,7 +25,7 @@ To identify customer purchase behavior and extract insights for better business 
 - Google Colab
 
 ## Key Insights
-- Highest sales from Tier 1 cities
+- Highest sales from cities
 - Married women aged 26–35 spent the most
 - Most selling products: Food, Clothing, Electronics
 
